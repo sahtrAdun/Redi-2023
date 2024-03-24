@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Redi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_greeting">GreetingActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_otp">OtpActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+    <string name="greeting_text_up_1">
+        Quick Delivery At Your Doorstep
+    </string>
+    <string name="greeting_text_up_2">
+        Flexible Payment
+    </string>
+    <string name="greeting_text_up_3">
+        Real-time Tracking
+    </string>
+
+    <string name="greeting_text_down_1">
+        Enjoy quick pick-up and delivery to your destination
+    </string>
+    <string name="greeting_text_down_2">
+        Different modes of payment either before and after delivery without stress
+    </string>
+    <string name="greeting_text_down_3">
+        Track your packages/items from the comfort of your home till final destination
+    </string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
