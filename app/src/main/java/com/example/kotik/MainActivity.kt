@@ -42,8 +42,8 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import java.util.UUID
 
-private const val baseUrl = "https://mmhobvfulyycmgbpdgts.supabase.co"
-private const val apiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1taG9idmZ1bHl5Y21nYnBkZ3RzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTA0ODgxNjgsImV4cCI6MjAyNjA2NDE2OH0.b0i8AhN-wtTzDf9LpAvG3VQCqC5NqwFrE7zxFjiFe8o"
+private const val baseUrl = ""
+private const val apiKey = ""
 val supabase = createSupabaseClient(
         supabaseUrl = baseUrl,
         supabaseKey = apiKey
